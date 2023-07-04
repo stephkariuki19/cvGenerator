@@ -1,2 +1,2 @@
 # cvGenerator
-cv generator using React
+cv generator built using React
